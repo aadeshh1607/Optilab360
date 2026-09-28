@@ -1,9 +1,0 @@
-{
-  "publishedTitle": "optiLab",
-  "publishedDescription": "OptiLab 360 is a software-only, physics-accurate digital twin that transforms the traditional Newton's Rings experiment into an engaging, interactive laboratory. Students align a 3D optical bench, turn on a 589.3 nm sodium lamp, focus a virtual travelling microscope, read a realistic 0.01 mm Vernier scale, plot real-time \nD\n2\n vs \nn\nD \n2\n  vs n regression graphs, and learn from a physics-aware error engine that diagnoses mechanical backlash and parallax in real time.",
-  "publishedVersion": "v2",
-  "publishedTags": "DigitalTwin PhysicsSimulation, ThreeJS, React, WebGL, Optics, STEM, EdTech, TypeScript, VirtualLab",
-  "id": "proj-xcwz10t",
-  "name": "optiLab",
-  "cloudProjectId": "XCK4qeMuGB5o49YpnKrA"
-}
